@@ -23,7 +23,9 @@ To get instant support, contact me on [@crypto_scem](https://t.me/crypto_scem)
 
 - Telegram: https://t.me/crypto_scem
 - Group: https://t.me/cryptoscemm
-- Sellix Store: https://cryptoscem-services.sellix.io
+- Sellix Store: https://cryptostealer.sellix.io
+
+![](https://cdn.discordapp.com/attachments/1003751669445697627/1017870396739027055/Screenshot_2022-09-10_002240.png)
 
 ##### Please ⭐ the repo to support this project & follow next updates
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
